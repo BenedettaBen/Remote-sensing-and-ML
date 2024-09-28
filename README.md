@@ -1,5 +1,5 @@
 # Remote sensing and ML
- This project explores the application of Sentinel-2 for flood damage assessment, combined with change detection techniques and machine learning.
+ This project explores the application of Sentinel-2 data for flood damage assessment, combined with change detection techniques and machine learning.
  
  ## Overview
  The frequency and severity of natural disasters threatens human health as well as infrastructures and environment, making it crucial to find instruments able to give rapid and accurate damage assessment reports. In the last years, remote sensing technology proved its efficiency and comprehensiveness in disaster monitoring. \
